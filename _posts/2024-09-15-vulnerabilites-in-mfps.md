@@ -33,7 +33,7 @@ It is important to maintain an **updated inventory** of MFPs, including the mode
 
 To identify all MFPs in the network, we can use **traffic analysis** with protocols like **NetFlow** and **analyze DHCP logs** to search for relevant MAC addresses.
 
-Another effective method is **network scanning**. In addition to **vulnerability scanners**, we can use simpler solutions like **network scanners**. For example, [Nmap](http://www.nmap.org) can be utilized to scan the network and gather valuable information about connected MFPs.
+Another effective method is **network scanning**. In addition to **vulnerability scanners**, we can use simpler solutions like **network scanners**. For example, [Nmap](https://www.nmap.org) can be utilized to scan the network and gather valuable information about connected MFPs.
 
 The following command will scan the network using Nmap and execute a script to retrieve the title header of web applications, helping us identify the device vendor:
 ```bash
