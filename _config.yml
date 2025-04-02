@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: ErSilh0x # the main title
 
-tagline: Cybersecurity Strategies by ErSilh0x # it will display as the subtitle
+tagline: Cybersecurity Strategies # it will display as the subtitle Cybersecurity Strategies by ErSilh0x
 
 description: >- # used by seo meta and the atom feed
   Deep dive into expert insights on vulnerability management, cutting-edge cybersecurity strategies, and real-world penetration testing techniques by ErSilh0x.
